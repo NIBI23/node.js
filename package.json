@@ -4,7 +4,7 @@
   "description": "A simple Node.js app to display colorful log messages.",
   "main": "app.js",
   "scripts": {
-    "test": "success",  // Fixed the typo here (changed 'sucess' to 'success')
+    "test": "success",
     "start": "node app.js"
   },
   "dependencies": {
