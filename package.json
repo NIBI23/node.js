@@ -4,7 +4,6 @@
   "description": "A simple Node.js app to display colorful log messages.",
   "main": "app.js",
   "scripts": {
-    "test": "success",
     "start": "node app.js"
   },
   "dependencies": {
